@@ -6,10 +6,10 @@ Generate bank transaction data.
 
 ## General Info
 
-Python version: `3.8.10`
-Total no. of transaction category: 4 (`MERCHENT`, `BANK_TRANSFER`, `SALARY` and `MUTUAL_FUND`)  
-Default rows for each category: 5000  
-BANKS: `Axis Bank`, `Yes Bank`, `ICICI Bank`, `HDFC Bank`, `State Bank` and `Fedral Bank`
+- Python version: `3.8.10`
+- Total no. of transaction category: 4 (`MERCHENT`, `BANK_TRANSFER`, `SALARY` and `MUTUAL_FUND`)  
+- Default rows for each category: 5000  
+- BANKS: `Axis Bank`, `Yes Bank`, `ICICI Bank`, `HDFC Bank`, `State Bank` and `Fedral Bank`
 
 ## Setup
 
