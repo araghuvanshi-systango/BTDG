@@ -28,6 +28,13 @@ Generate bank transaction data.
 >>> python data_gen.py
 ```
 
+## Predection
+
+- We have saved our models in `models` folder.
+- We have a file named `predict.py` which simply load our model from `models` folder and predict using that (Basically it's for testing).
+- You can run that file using `python predict.py`.
+
+
 ## Fomat for transaction
 
 - MERCHANT: `UPI/P2M/<12_digit_number>/<merchent_name>/<bank_name>`
